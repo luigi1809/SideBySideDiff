@@ -1,0 +1,3 @@
+component {63a9448f-cfd2-4bed-9358-84fabf68d910} sbsDiff.py
+contract @activestate.com/sbsDiff;1 {63a9448f-cfd2-4bed-9358-84fabf68d910}
+interfaces sbsIDiff.xpt
